@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/as2_platform_crazyfile-release.git
 tracks:
   humble:
     actions:
